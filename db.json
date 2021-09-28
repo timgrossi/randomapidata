@@ -2,17 +2,17 @@
   "products": [
     {
       "id": "ghost-whey-x-chips-ahoy",
-      "name": "Ghost Whey X Chips Ahoy",
+      "name": "Whoa this works",
       "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
       "price": "$39.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cars.com%2Fshopping%2F&psig=AOvVaw28-DZ8uS4IMWRMWNO_Gh9b&ust=1632959625100000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDX5ejuovMCFQAAAAAdAAAAABAD"
     },
     {
       "id": "ghost-whey-vegan",
-      "name": "GHOST® Vegan Protein",
+      "name": "Hi this is working",
       "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
       "price": "$49.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+      "image": "https://i.insider.com/550cbf03ecad04de2c7c008a?width=1200&format=jpeg"
     }
   ],
   "profile": {
